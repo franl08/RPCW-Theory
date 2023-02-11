@@ -3,7 +3,7 @@ authors = ["franl08"]
 language = "pt"
 multilingual = false
 src = "src"
-title = "Teóricas de ASCN"
+title = "Teóricas de RPCW"
 
 [output.html]
 mathjax-support = true
